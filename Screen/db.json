@@ -1,0 +1,32 @@
+{
+  "products": [
+    [
+      {
+        "ten": "ccc"
+      },
+      {
+        "diachi": "vvv"
+      },
+      {
+        "sdt": "89"
+      },
+      {
+        "trangthai": "0"
+      }
+    ],
+    [
+      {
+        "ten": "nnn"
+      },
+      {
+        "diachi": "mmm"
+      },
+      {
+        "sdt": "7899"
+      },
+      {
+        "trangthai": "0"
+      }
+    ]
+  ]
+}
